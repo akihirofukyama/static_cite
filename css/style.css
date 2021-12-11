@@ -162,13 +162,13 @@
     border: 1px solid #55bbbb;
     border-radius: 15px;
     color: #55bbbb;
-    margin: 0% 15% 10% 0;
+    margin: 0% 15% 15% 0;
     padding: 0 6% 0 6% ;
 }
 
 .explanation-main ul li{
     border-bottom:1px solid #55bbbb ;
-    margin-top: 15%;
+    margin-top: 10%;
     padding-bottom: 3%;
 }
 
